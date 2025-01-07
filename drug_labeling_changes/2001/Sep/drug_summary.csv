@@ -1,0 +1,24 @@
+Drug Name,                                                                              BW,     C,      W,      P,      AR,     IU,     O,      CP,     PL,     DA,     DI,     AT,     Co,     PPI
+AGGRASTAT (tirofiban HCl) Injection                                                       ,      ,      x,      x,       x,       ,      ,        ,       ,       ,       ,       ,       , 
+AndroGel (testosterone gel)                                                               ,      ,       ,       ,        ,       ,      ,        ,       ,      x,       ,       ,       ,
+ASENDIN (amoxapine) Tablets                                                               ,      ,       ,       ,       x,       ,     x,        ,       ,       ,       ,       ,       ,
+AVAPRO (irbesartan) Tablets & AVALIDE Tablets                                             ,      ,       ,      x,        ,       ,      ,        ,       ,       ,       ,       ,       ,
+DANTRIUM (dantrolene sodium) Injection                                                    ,      ,       ,      x,        ,       ,      ,        ,       ,       ,       ,       ,       ,
+DETROL LA (tolterodine tartrate) Capsules                                                 ,      ,       ,      x,       x,       ,      ,        ,       ,       ,       ,       ,       ,
+FORADIL (formoterol fumarate) Inhalation Powder                                           ,      ,       ,       ,        ,       ,      ,        ,       ,       ,       ,       ,       ,
+ISOPTIN SR (verapamil HCl) Tablets                                                        ,      ,       ,      x,        ,       ,      ,        ,       ,       ,      x,       ,       ,
+ISORDIL (isosorbide dinitrate) Sublingual Tablets                                         ,      ,       ,      x,        ,       ,      ,        ,       ,       ,       ,       ,       ,
+LESCOL Capsule                                                                            ,      ,       ,       ,        ,      x,      ,        ,       ,       ,       ,       ,       ,
+
+LEXXEL (enalapril maleate/felodipine) Tablets                                             ,      ,       ,       ,       x,       ,      ,        ,       ,       ,       ,       ,       ,
+Lupron Depot (leuprolide acetate) Injection                                               ,      ,       ,       ,        ,       ,      ,        ,       ,       ,       ,       ,       ,
+
+LUVOX (fluvoxamine maleate) Tablets                                                       ,      ,      x,       ,        ,       ,      ,        ,       ,       ,       ,       ,       ,
+MIDAMOR (amiloride HCl) Tablets                                                           ,      ,      x,      x,        ,       ,      ,        ,       ,       ,       ,       ,       ,
+RETROVIR (zidovudine) Injection                                                           ,      ,       ,      x,        ,       ,      ,        ,       ,       ,       ,       ,       ,
+
+SEROSTIM (somatropin) Injection                                                           ,      ,       ,       ,        ,       ,      ,        ,       ,      x,       ,       ,       ,
+THALOMID (thalidomide) Tablets                                                            ,      ,      x,      x,       x,       ,      ,       x,       ,      x,       ,       ,      x,
+
+VERSED (midazolam HCl) Injection                                                          ,      ,       ,      x,        ,       ,      ,        ,       ,       ,       ,       ,       ,
+XELODA (capcitabine) Tablets                                                             x,      ,      x,      x,        ,       ,      ,       x,       ,       ,       ,       ,       ,   x
