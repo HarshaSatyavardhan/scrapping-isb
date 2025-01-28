@@ -3,6 +3,7 @@
 #SBATCH -A plafnet2
 #SBATCH -p plafnet2
 #SBATCH -c 10
+#SBATCH --gres=gpu:1
 #SBATCH --time=4-00:00:00
 #SBATCH --output scrap.log
 #SBATCH --mail-type=ALL
@@ -13,12 +14,12 @@ echo "mkdir"
 mkdir /scratch/harsha.vasamsetti
 
 echo "chdir"
-cd /scratch/harsha.vasamsetti
+cd /scratch/harsha.vasamsetti/latest/code-2
 
 echo $(ls)
 source /home2/harsha.vasamsetti/miniconda3/bin/activate slices
 
 echo "training"
-python main.py
+python /scratch/harsha.vasamsetti/latest/code-2/main2.py
 
 echo "done"
